@@ -57,3 +57,8 @@ I used [json-sever](https://github.com/typicode/json-server) in this project the
   ]
 }
 ```
+
+You also need to run it on port 3400 your localhost
+```
+json-server --watch db.json --port 3400
+```
