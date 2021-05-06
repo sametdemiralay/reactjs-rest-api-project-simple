@@ -63,9 +63,3 @@ You also need to run it on port 3400 your localhost
 json-server --watch db.json --port 3400
 ```
 
-## Software and design technologies I use
-- [React js](https://tr.reactjs.org/)
-  * [Context API](https://tr.reactjs.org/docs/context.html#gatsby-focus-wrapper)
-- [react-router-dom](https://reactrouter.com/web/guides/quick-start)
-- [axios](https://www.npmjs.com/package/axios)
-- [material-ui](https://material-ui.com/)
