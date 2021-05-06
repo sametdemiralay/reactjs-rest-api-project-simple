@@ -29,7 +29,7 @@ I used [json-sever](https://github.com/typicode/json-server) in this project the
     {
       "author": "Michel De Montaigne",
       "title": "The Complete Essays",
-      "summary": "Michel de Montaigne was one of the most influential figures of the Renaissance, singlehandedly responsible for popularising the essay as a literary form. This Penguin Classics edition of The Complete Essays is translated from the French and edited with an introduction and notes by M.A. Screech. In 1572 Montaigne retired to his estates in order to devote himself to leisure, reading and reflection. There he wrote his constantly expanding assays, inspired by the ideas he found in books contained in his library and from his own experience. He discusses subjects as diverse as war-horses and cannibals, poetry and politics, sex and religion, love and friendship, ecstasy and experience. But, above all, Montaigne studied himself as a way of drawing out his own inner nature and that of men and women in general. The Essays are among the most idiosyncratic and personal works in all literature and provide an engaging insight into a wise Renaissance mind, continuing to give pleasure and enlightenment to modern readers.",
+      "summary": "Michel de Montaigne was one of the most influential figures of the Renaissance, singlehandedly responsible for popularising the essay as a literary form. This Penguin Classics edition of The Complete Essays is translated from the French and edited with an introduction and notes by M.A. Screech. In 1572 Montaigne retired to his estates in order to devote himself to leisure, reading and reflection. There he wrote his constantly expanding assays, inspired by the ideas he found in books contained in his library and from his own experience.",
       "type": "Philosophy",
       "id": 4
     },
@@ -64,7 +64,6 @@ json-server --watch db.json --port 3400
 ```
 
 ## Software and design technologies I use:
-- React js
-   *asd
-   *as4
--ddenme
+- [Getting started]
+- [Routes]
+  * [Plural routes]
