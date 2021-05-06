@@ -62,3 +62,9 @@ You also need to run it on port 3400 your localhost
 ```
 json-server --watch db.json --port 3400
 ```
+
+## Software and design technologies I use:
+- React js
+   *asd
+   *as4
+-ddenme
